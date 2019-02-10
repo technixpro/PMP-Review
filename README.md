@@ -7,3 +7,9 @@ Whatsapp : (852) 6818-7071
 Email : cs@technixpro.com
 
 Web Site : http://www.technixpro.com
+
+<hr>
+
+# Related Resource Links
+
+http://www.pmi.org
