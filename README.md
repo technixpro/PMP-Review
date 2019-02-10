@@ -10,6 +10,15 @@ Web Site : http://www.technixpro.com
 
 <hr>
 
-# Related Resource Links
+# Related Exam Resource Links
 
-http://www.pmi.org
+PMI Website : http://www.pmi.org
+PMP Handbook : https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/project-management-professional-handbook.pdf
+PMP Exam Content Outline : https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/project-management-professional-exam-outline.pdf
+PMI Code of Ethics and Professional Conduct : https://www.pmi.org/about/ethics/code
+Prometric Exam Centre : http://www.prometric.com
+
+# Recommended Websites
+
+PMP 35 Hours E-Learning Course (Udemy) : https://www.udemy.com/pmp-certification-complete/
+PMP Exam Simulator ( Free Trial ) : http://www.pm-exam-simulator.com/
