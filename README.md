@@ -1,5 +1,4 @@
-# PMP-Review
-PMP Review Course Materials
+# PMP Review Course Materials
 
 For the course details please visit course flyer ( <a href="https://github.com/technixpro/PMP-Review/blob/master/TechnixPRO_PMP_Review_CourseFlyer.pdf">CLICK Here</a> )
 
